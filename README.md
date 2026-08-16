@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Aviral Bajpai</h1>
 
 <h3 align="center">
@@ -32,31 +31,31 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript" />
 </p>
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,docker" />
 </p>
 
-### Frontend
+### 🌐 Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,opencv,sklearn" />
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
@@ -64,52 +63,7 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=avrbt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrbt&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=avrbt&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=avrbt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=avrbt&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="Contribution Activity Graph"
-  />
-</p>
-
----
-
-# 💻 Coding Profiles
+## 💻 Coding Profiles
 
 <p align="center">
 
@@ -137,29 +91,37 @@
 
 ---
 
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
 ### 🏆 Prem League Prediction
 
-Football prediction project focused on using data and machine learning to predict Premier League outcomes.
+A machine learning project focused on predicting Premier League outcomes using historical football data and machine learning techniques.
 
-**Focus:** Python • Machine Learning • Data Analysis
+**Tech:** Python • Machine Learning • Data Analysis
 
-[View Repository →](https://github.com/avrbt/Prem_League_Prediction)
+<p>
+  <a href="https://github.com/avrbt/Prem_League_Prediction">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 🛡️ CrimeShield AI
 
-AI-powered security project focused on detecting weapons and analyzing human behavior using computer vision.
+An AI-powered security system focused on weapon detection and human behavior analysis using computer vision.
 
-**Focus:** Python • YOLO • OpenCV • Computer Vision
+**Tech:** Python • YOLO • OpenCV • Computer Vision
 
-[View Repository →](https://github.com/avrbt/CrimeShieldAI)
+<p>
+  <a href="https://github.com/avrbt/CrimeShieldAI">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📌 More Projects
+### 📂 More Projects
 
 <p align="center">
   <a href="https://github.com/avrbt?tab=repositories">
@@ -169,25 +131,29 @@ AI-powered security project focused on detecting weapons and analyzing human beh
 
 ---
 
-# 📌 GitHub Repository Highlights
+## 📌 Repository Highlights
 
 <p align="center">
-  <a href="https://github.com/avrbt/Prem_League_Prediction">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=avrbt&repo=Prem_League_Prediction&theme=tokyonight&hide_border=true"
-    />
-  </a>
 
-  <a href="https://github.com/avrbt/CrimeShieldAI">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=avrbt&repo=CrimeShieldAI&theme=tokyonight&hide_border=true"
-    />
-  </a>
+<a href="https://github.com/avrbt/Prem_League_Prediction">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=avrbt&repo=Prem_League_Prediction&theme=tokyonight&hide_border=true"
+    width="400"
+  />
+</a>
+
+<a href="https://github.com/avrbt/CrimeShieldAI">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=avrbt&repo=CrimeShieldAI&theme=tokyonight&hide_border=true"
+    width="400"
+  />
+</a>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -196,7 +162,7 @@ AI-powered security project focused on detecting weapons and analyzing human beh
 </a>
 
 <a href="https://twitter.com/avrbt_">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@avrbt">
@@ -211,20 +177,8 @@ AI-powered security project focused on detecting weapons and analyzing human beh
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avrbt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrbt&layout=donut-vertical&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <h3 align="center">
-  "Consistency beats intensity."
+  Building • Learning • Solving
 </h3>
 
 <p align="center">
