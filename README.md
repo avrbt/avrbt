@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Aviral Bajpai</h1>
 
 <h3 align="center">
@@ -230,4 +230,3 @@ AI-powered security project focused on detecting weapons and analyzing human beh
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
-```
